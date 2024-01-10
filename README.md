@@ -12,6 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Natianni Wanderley
 
 ```
