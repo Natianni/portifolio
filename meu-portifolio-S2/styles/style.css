@@ -196,7 +196,13 @@ body {
     }
 
     .apresentacao__conteudo {
-        width: auto
+        width: auto;
+        align-items: center;
+    
+    }
+
+    .apresentacao__imagem {
+        align-items: center;
     }
 
 }
