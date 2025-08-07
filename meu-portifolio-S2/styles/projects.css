@@ -1,0 +1,14 @@
+
+
+.apresentacao__conteudo-div {
+    display: flex;
+    gap: 20%;
+}
+
+.apresentacao__conteudo__imagem {
+    width: 40rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2em;
+}
+
+
